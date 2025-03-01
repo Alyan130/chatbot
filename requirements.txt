@@ -26,6 +26,7 @@ mdurl==0.1.2
 narwhals==1.28.0
 numpy==2.2.3
 openai==1.65.1
+openrouter
 packaging==24.2
 pandas==2.2.3
 pillow==11.1.0
